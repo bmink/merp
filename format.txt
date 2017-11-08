@@ -1,0 +1,13 @@
+
+# Bar:beat:tick
+0001:3:0	9	CC	3	123
+
+0001:3:0	once	normal	filter_sweep_up(3)
+0001:3:0	twice	normal	filter_sweep_up(3)
+0001:3:0	45x	normal	filter_sweep_up(3)
+0001:3:0	repeat	normal	filter_sweep_up(3)
+
+0001:3:0	once	reverse	filter_sweep_up(3)
+0001:3:0	once	zigzag	filter_sweep_up(3)
+
+
